@@ -17,4 +17,4 @@ Directory breakdown:
 - **`create.py`** - Script used to create the challenge.
 - **`solve.py`** - Solution scipty
 - **`writeup.pdf`** - Detail writeup.
-- Suppose there is a category that doesn't require creation scripts but just uploads the relevant files.
+- Suppose there is a category that doesn't require creation scripts then just uploads the relevant files.
